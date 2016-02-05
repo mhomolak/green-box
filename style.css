@@ -1,0 +1,35 @@
+.square {
+  border: 1px;
+  background-color: green;
+  width: 30px;
+  height: 30px;
+  padding: 20px;
+}
+.four {
+  border-style: dashed;
+  border-color: green;
+  height: 30px;
+  width: 30px;
+  margin-top: 15px;
+}
+.box {
+  border-style: groove;
+  border-color: green;
+  height: 30px;
+  width: 30px;
+  margin-top: 15px;
+}
+.xob {
+  border-style: inset;
+  border-color: green;
+  height: 30px;
+  width: 30px;
+  margin-top: 15px;
+}
+table, tr {
+  border-collapse: collapse;
+  border: 1px solid green;
+  height: 30px;
+  width: 30px;
+  margin-top: 15px;
+}
